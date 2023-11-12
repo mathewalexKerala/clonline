@@ -1,0 +1,41 @@
+{
+    "server": {
+        "test_mode": {
+            "state": true,
+            "user_id": "63bac8075efaaa71d71cfab1",
+            "admin_id": "63bac7cb5efaaa71d71cfa95"
+        },
+        "maintenance": {
+            "state": false,
+            "message": "We are having maintenence on our server, we will back in few hours!"
+        }
+    },
+    "site": {
+        "name": "Clonline",
+        "address": "calicut, kerala, india",
+        "email": "mathewalex557@gmail.com",
+        "phone": "123546893",
+        "social": {
+            "instagram": {
+                "url": null,
+                "state": true
+            },
+            "facebook": {
+                "url": null,
+                "state": true
+            },
+            "linkedin": {
+                "url": "https://www.linkedin.com/in/mathew-alex-mer0n/",
+                "state": false
+            },
+            "whatsapp": {
+                "number": null,
+                "state": false
+            },
+            "twitter": {
+                "url": null,
+                "state": true
+            }
+        }
+    }
+}
